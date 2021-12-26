@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @5ude
 - 👀 I’m interested in computational linguistics, natural language processing and data science.
 - 🌱 I’m currently learning python,java, c++, OOP...
-- 📫 here's the link to go to my linkedin profile :https://www.linkedin.com/in/sudeuygun/
+- 📫 click on the link to go to my linkedin profile :https://www.linkedin.com/in/sudeuygun/
 - e-mail me at: sudeuygun17@hotmail.com
 
 <!---
