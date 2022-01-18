@@ -3,4 +3,4 @@
 - 📫 click on the link to go to my linkedin profile :https://www.linkedin.com/in/sudeuygun/
 - e-mail me at: sudeuygun17@hotmail.com
 
-![snake svg](https://github.com/5ude/5ude/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/5ude/5ude/blob/output/github-contribution-grid-snake.gif)
